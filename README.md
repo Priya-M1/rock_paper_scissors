@@ -10,6 +10,8 @@ A JavaScript console application game of rock, paper, scissors played through Ja
 - alert
 - confirm
 
+You can play the game [here](https://priya-m1.github.io/rock_paper_scissors/)
+
 ## How to Play
 
 1. To begin the player is asked for their username so that a player can see their name in the messages sent to them.
